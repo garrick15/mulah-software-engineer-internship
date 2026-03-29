@@ -1,3 +1,5 @@
+Website URL: https://garrick15.github.io/mulah-software-engineer-internship/
+
 CSV Data Processor & Dynamic Table Renderer
 A lightweight, vanilla JavaScript web application that parses uploaded CSV files, dynamically renders data into a stylized HTML table, and performs specific mathematical calculations based on row indices.
 
